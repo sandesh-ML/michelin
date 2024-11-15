@@ -1,3 +1,4 @@
+--
 -- Databricks notebook source
 create table michelin.emp(id int,name string)
 
